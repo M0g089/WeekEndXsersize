@@ -1,0 +1,97 @@
+
+.navbar {
+    width: 100%;
+    background-color: #ffffff;
+    overflow: auto;
+  }
+  
+  
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+    width: 22%; 
+    text-align: center; 
+  }
+  
+  
+  .navbar a:hover {
+    background-color: #1893f8;
+  }
+  
+  
+  .navbar a.active {
+    background-color: #04AA6D;
+  }
+  
+  .intro {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background-color: #ffffff;
+  }
+  
+  .Food {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background-color: #ffffff;
+    padding: 1px;
+
+  }
+  .section {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background-color: #ffffff;
+    padding: 1px;
+  }
+  .btn {
+    line-height: height - spacer - spacer + px;
+    
+    display: inline-block;
+    background: rgba(rgb(255, 249, 249), 0.4);
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    padding: 1%;
+    position: relative;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bolder
+    letter-spacing 1px;
+    transition: all
+    align-items flex-end;
+   
+  }
+  .colored-paragraph-red {
+    color: red;
+    font-size: x-large;
+    align-items: center;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    
+  }
+  .Middle {
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    align-items: center;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    font-style: bold;
+
+  }
+  .picturefatoush {
+    border-radius: 50px;
+  }
+  .vegsalad {
+    border-radius: 50px;
+  }
+
+  .Egg-vegi-salad
+{
+    border-radius: 50px;
+}
